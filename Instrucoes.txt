@@ -1,2 +1,3 @@
 Vitor, crie uma receita de bolo de cenoura.
 Stephanie, crie um arquivo com a receita de um macarrão com molho de carne.
+Vitor, adicionei a receita que pediu, tchau.
